@@ -34,6 +34,7 @@
       ],
       "resources": [
         "index.html",
+        "assets/*",
         "assets/content.js-CwDkHROR.js"
       ],
       "use_dynamic_url": false
